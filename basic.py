@@ -18,7 +18,7 @@ multiline = """life is too short,\nYou need Python"""
 print(multiline)
 
 multiline = """
-life is too short,
+life is too short, 
 You need Python
 """
 print(multiline)
